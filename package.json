@@ -4,12 +4,11 @@
   "version": "1.1.4",
   "license": "MIT",
   "main": "./lib/js/react-typeahead.js",
-  "repository": "erikschlegel/React-Twitter-Typeahead",
+  "repository": "decomplect-io/React-Twitter-Typeahead",
   "maintainers": [
     {
-      "name": "Erik Schlegel",
-      "email": "erik.schlegel@gmail.com",
-      "web": "erikschlegel.com"
+      "name": "Sahil Muthoo",
+      "email": "sahil.muthoo@gmail.com"
     }
   ],
   "devDependencies": {
