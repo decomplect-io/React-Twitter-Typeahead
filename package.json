@@ -1,7 +1,7 @@
 {
   "name": "react-twitter-typeahead-babel",
   "description": "A reactJS component that integrates Twitter's typeahead autosuggest control",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "license": "MIT",
   "main": "./lib/js/react-typeahead.js",
   "repository": "decomplect-io/React-Twitter-Typeahead",
